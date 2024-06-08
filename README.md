@@ -1,1 +1,1 @@
-# Kafka-Wikimedia-OpenSearh-Project
+# Kafka-Wikimedia-OpenSearch-Project
